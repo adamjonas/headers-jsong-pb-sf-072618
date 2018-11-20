@@ -1,0 +1,4 @@
+{
+  "test/index_test.py::GetHeadersMessageTest::test_serialize": true,
+  "test/index_test.py::HeadersMessageTest::test_parse": true
+}
